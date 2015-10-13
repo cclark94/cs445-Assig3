@@ -1,0 +1,67 @@
+CS 0445 Assignment Information Sheet
+ 
+You must electronically submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name:_______Christian Clark________ Assignment #: _____3________
+
+Lecture Day and Time: _______Tuesday/Thursday 2:30____________
+
+Recitation Day and Time: _____Friday 1:00____________________
+
+Program Due Date: _____3/2/2015________________
+
+Handed in Date: ______3/2/2015_________________ 
+
+Source code (.java) file name(s):
+
+____Assig3.java, Assig3B.java, FindWord.java___________________
+
+________________________________________________________________
+
+Compiled (.class) file name(s): ___N/A__________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program compile without error?: ___Yes________ 
+
+If not, what is/are the error(s)?:
+
+_____N/A________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: ___Yes________ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+______N/A_______________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+____I included FindWord.java because I copied some code from it, 
+
+but the file is not needed for my programs to run.  I included 
+
+Assig3B.java for extra credit. It allows characters within words 
+
+to change direction. You can test this using sample4.txt, which 
+
+I wrote. It's a grid containing the phrase "the quick brown fox 
+
+jumps over the lazy dog". The phrase winds around the grid. You 
+
+can search for it the same way you search for phrases in 
+
+Assig3.java.___________________________________________________
+
+________________________________________________________________
